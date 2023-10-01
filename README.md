@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ayoub Bouria</h1>
-<h3 align="center">A Software software engineer from Morocco</h3>
+<h3 align="center">A Software engineer from Morocco</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
